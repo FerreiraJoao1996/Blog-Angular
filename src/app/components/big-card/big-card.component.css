@@ -1,0 +1,33 @@
+.cardContainer { 
+    display: block;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin: 30px 15px;
+}
+
+.cardImg img {
+    width: 100%;
+    object-fit: cover;
+    /* height: 250px; */
+}
+
+.cardTitulo h1{ 
+    font-size: 1.7em;
+    margin: 15px 0;
+    padding: 0 5px;
+}
+
+.cardTitulo h1 a{ 
+    text-decoration: none;
+    color: #19a18c;
+}
+.cardTitulo h1 a:hover{ 
+    text-decoration: none;
+    color: #006455;
+}
+
+.cardDescricao > p a{ 
+    color: #747474;
+    margin: 15px 0;
+}

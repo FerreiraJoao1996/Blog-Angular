@@ -1,0 +1,16 @@
+.menuContainer > h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    margin: 20px 0;
+    padding: 50px 0;
+    font-size: 4em;
+    margin: 0 auto;
+    text-transform: uppercase;
+    background-color: #19a18c;
+}
+
+.menuContainer hr {
+    margin: 15px 0;
+}

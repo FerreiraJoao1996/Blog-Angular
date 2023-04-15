@@ -1,0 +1,23 @@
+header{
+    border: 1px solid white;
+}
+
+.containerMenu{
+    padding: 15px 0;
+}
+
+.containerMenu ul{
+    display: flex;
+    flex-direction: row;
+}
+
+.containerMenu ul li {
+    margin-right: 20px;
+    list-style: none;
+}
+
+.containerMenu ul li span,
+.containerMenu ul li a{
+    text-decoration: none;
+    color: #000;
+}

@@ -1,0 +1,13 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    font-family: 'Segoe UI', Arial, Helvetica,Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.full { 
+    width: 100%;
+}

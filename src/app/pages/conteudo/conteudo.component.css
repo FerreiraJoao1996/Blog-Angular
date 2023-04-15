@@ -1,0 +1,29 @@
+.conteudoContainer{
+    width: 100%;
+    height: 100%;
+    padding: 15px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.conteudoTitulo { 
+    color: #006455;
+}
+
+.conteudoCover img {
+    width: 100%;
+    max-width: 100%;
+    height: 600px;
+    min-height: 600px;
+    object-fit: cover;
+    margin-bottom: 50px;
+}
+
+.conteudoDescricao{
+    margin-top: 15px;
+}
+
+.conteudoDescricao p{ 
+    color: #006455;
+}

@@ -1,0 +1,25 @@
+.containerSmall {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid #004d0d;
+    margin: 30px 0 5px ;
+}
+.cardTituloSmall h1{ 
+    font-size: 1.3em;
+    margin: 15px 0;
+    padding: 0 5px;
+}
+
+.cardTituloSmall h1 a{ 
+    text-decoration: none;
+    color: #19a18c;
+}
+.cardTituloSmall h1 a:hover{ 
+    text-decoration: none;
+    color: #006455;
+}
+
+.cardDescricao > p a{ 
+    color: #747474;
+}
